@@ -161,7 +161,7 @@ def dec_successful(loc):
 def display(loc):
     for i in loc:
         Image.open(i).show()
-    os._exit(0)
+    os._exit(0) 
 
 def em_successful():
     suc = CTk()
