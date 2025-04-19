@@ -1,0 +1,9 @@
+
+---
+
+### 📄 `requirements.txt`
+
+```txt
+customtkinter==5.2.1
+pycryptodome==3.20.0
+Pillow==10.2.0
